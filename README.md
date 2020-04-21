@@ -1,13 +1,13 @@
 OpenCV-learning-image-processing
 ============================
 
-# Algorithm: Interpolation
+## Algorithm: Interpolation
 
 - Nearest Neighbor Interpolation
 - Bilinear Interpolation
 - Bicubic Interpolation
 
-# Example: Interpolation
+## Example: Interpolation
 
 `cv2.resize()` param: 
 
