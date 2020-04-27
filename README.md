@@ -11,3 +11,9 @@ OpenCV-learning-image-processing
 - Translation
 - Rotation
 - Affine
+
+## Color
+
+## Filtering
+- Linear: Box, Average, Gaussian
+- Non-linear: Median, Bilateral
