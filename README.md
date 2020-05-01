@@ -26,3 +26,5 @@ https://nbviewer.jupyter.org/github/Aujkst/OpenCV-learning-image-processing/blob
 - Threshold to Zero
 - Threshold to Zero, Inverted
 - **Adaptive Thresholding**
+
+## Edge Detection
